@@ -1,0 +1,1 @@
+cmd_/root/rookie/example/int2/int.ko := aarch64-linux-android-ld -EL -r  -T /usr/src/tegra/scripts/module-common.lds --build-id  -o /root/rookie/example/int2/int.ko /root/rookie/example/int2/int.o /root/rookie/example/int2/int.mod.o
