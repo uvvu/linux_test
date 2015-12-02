@@ -1,0 +1,1 @@
+cmd_/root/20151202/module2/module.ko := aarch64-linux-android-ld -EL -r  -T /usr/src/tegra/scripts/module-common.lds --build-id  -o /root/20151202/module2/module.ko /root/20151202/module2/module.o /root/20151202/module2/module.mod.o
