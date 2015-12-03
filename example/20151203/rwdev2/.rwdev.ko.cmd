@@ -1,0 +1,1 @@
+cmd_/root/rookie/example/20151203/rwdev2/rwdev.ko := aarch64-linux-android-ld -EL -r  -T /usr/src/tegra/scripts/module-common.lds --build-id  -o /root/rookie/example/20151203/rwdev2/rwdev.ko /root/rookie/example/20151203/rwdev2/rwdev.o /root/rookie/example/20151203/rwdev2/rwdev.mod.o

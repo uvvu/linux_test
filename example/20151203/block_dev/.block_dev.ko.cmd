@@ -1,0 +1,1 @@
+cmd_/root/rookie/example/20151203/block_dev/block_dev.ko := aarch64-linux-android-ld -EL -r  -T /usr/src/tegra/scripts/module-common.lds --build-id  -o /root/rookie/example/20151203/block_dev/block_dev.ko /root/rookie/example/20151203/block_dev/block_dev.o /root/rookie/example/20151203/block_dev/block_dev.mod.o
