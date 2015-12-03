@@ -1,0 +1,1 @@
+cmd_/root/rookie/example/memory3/memory.ko := aarch64-linux-android-ld -EL -r  -T /usr/src/tegra/scripts/module-common.lds --build-id  -o /root/rookie/example/memory3/memory.ko /root/rookie/example/memory3/memory.o /root/rookie/example/memory3/memory.mod.o
